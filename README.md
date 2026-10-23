@@ -165,3 +165,7 @@ The combined findings warranted escalation for additional endpoint, network, and
 The available evidence did not independently establish confirmed command-and-control activity or data exfiltration.
 
 **Prepared by Marcos Rivera | Rivera Tech Protection**
+
+## Full Investigation Report
+
+📄 [View the Complete Wireshark Investigation](Suspicious%20Outbound%20Network%20Traffic%20Investigation%20%E2%80%94%20Wireshark.pdf)
