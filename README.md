@@ -1,4 +1,3 @@
-# Wireshark-Network-Traffic-Analysis
 # Suspicious Outbound Network Traffic Investigation
 
 ### Wireshark | DNS | TCP/TLS Analysis | SOC Incident Response
